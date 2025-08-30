@@ -1,8 +1,14 @@
-Versión: 1.0.0
+Versión: 1.1.0
 Fecha: 2025-08-30
-Descripción: Primera versión estable de la aplicación
+Descripción: Segunda versión con mejoras visuales
 
 Características incluidas:
-- Página de inicio
-- Estructura HTML básica
-- Lista para ser liberada como v1.0.0
+- Página de inicio (v1.0.0)
+- Estructura HTML básica (v1.0.0)
+- NUEVO: Estilos CSS integrados
+- NUEVO: Mejor apariencia visual
+- NUEVO: Colores y tipografía mejorados
+
+Cambios desde v1.0.0:
+- Agregados estilos CSS
+- Mejorado diseño visual
