@@ -1,0 +1,8 @@
+Versión: 1.0.0
+Fecha: 2025-08-30
+Descripción: Primera versión estable de la aplicación
+
+Características incluidas:
+- Página de inicio
+- Estructura HTML básica
+- Lista para ser liberada como v1.0.0
